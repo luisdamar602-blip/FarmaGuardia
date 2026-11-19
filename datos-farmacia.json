@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "jue, 19 nov 2026, 19:45",
+  "lastUpdated": "jue, 19 nov 2026, 19:46",
   "updatedBy": "Dr LuisDamar",
   "categories": [
     {
@@ -44,21 +44,6 @@
     }
   ],
   "medications": [
-    {
-      "id": "med-101",
-      "name": "Ceftriaxona",
-      "presentation": "1 g / 10 ml",
-      "formType": "Polvo para solución inyectable",
-      "categoryId": "cat-1",
-      "route": "Parenteral",
-      "patients": [
-        "Cuidado",
-        "Graves",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "120 viales en stock"
-    },
     {
       "id": "med-102",
       "name": "Meropenem",
