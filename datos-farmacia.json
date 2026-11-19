@@ -1,0 +1,256 @@
+{
+  "lastUpdated": "jue, 19 nov 2026, 19:30",
+  "updatedBy": "Turno Matutino",
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Antibióticos",
+      "color": "sky"
+    },
+    {
+      "id": "cat-2",
+      "name": "Ácido tranexámico",
+      "color": "rose"
+    },
+    {
+      "id": "cat-3",
+      "name": "Antiácidos",
+      "color": "emerald"
+    },
+    {
+      "id": "cat-4",
+      "name": "Inhibidores de la bomba de protones",
+      "color": "indigo"
+    },
+    {
+      "id": "cat-5",
+      "name": "Procinéticos",
+      "color": "teal"
+    },
+    {
+      "id": "cat-6",
+      "name": "Benzodiazepinas",
+      "color": "amber"
+    },
+    {
+      "id": "cat-7",
+      "name": "Analgésicos / Opioides",
+      "color": "sky"
+    },
+    {
+      "id": "cat-8",
+      "name": "Vasopresores / Inotrópicos",
+      "color": "rose"
+    }
+  ],
+  "medications": [
+    {
+      "id": "med-103",
+      "name": "Amoxicilina / Ácido Clavulánico",
+      "presentation": "875 mg / 125 mg",
+      "formType": "Tableta recubierta",
+      "categoryId": "cat-1",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Stock amplio"
+    },
+    {
+      "id": "med-201",
+      "name": "Ácido Tranexámico",
+      "presentation": "500 mg / 5 ml",
+      "formType": "Solución inyectable (Ampolla)",
+      "categoryId": "cat-2",
+      "route": "Parenteral",
+      "patients": [
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Prioridad Código Rojo Obstétrico y Trauma"
+    },
+    {
+      "id": "med-202",
+      "name": "Ácido Tranexámico",
+      "presentation": "500 mg",
+      "formType": "Tableta",
+      "categoryId": "cat-2",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Maternas"
+      ],
+      "status": "BAJO",
+      "note": "2 cajas disponibles"
+    },
+    {
+      "id": "med-301",
+      "name": "Hidróxido de Aluminio y Magnesio",
+      "presentation": "200 mg / 200 mg / 5 ml",
+      "formType": "Suspensión oral",
+      "categoryId": "cat-3",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Frascos de 180 ml"
+    },
+    {
+      "id": "med-302",
+      "name": "Sucralfato",
+      "presentation": "1 g / 5 ml",
+      "formType": "Suspensión oral",
+      "categoryId": "cat-3",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Graves"
+      ],
+      "status": "AGOTADO",
+      "note": "Pendiente ingreso de almacén central"
+    },
+    {
+      "id": "med-401",
+      "name": "Omeprazol",
+      "presentation": "40 mg",
+      "formType": "Polvo liofilizado para solución inyectable",
+      "categoryId": "cat-4",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "85 viales disponibles"
+    },
+    {
+      "id": "med-402",
+      "name": "Omeprazol",
+      "presentation": "20 mg",
+      "formType": "Cápsula gastrorresistente",
+      "categoryId": "cat-4",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Stock completo"
+    },
+    {
+      "id": "med-501",
+      "name": "Metoclopramida",
+      "presentation": "10 mg / 2 ml",
+      "formType": "Solución inyectable (Ampolla)",
+      "categoryId": "cat-5",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "90 ampollas"
+    },
+    {
+      "id": "med-502",
+      "name": "Metoclopramida",
+      "presentation": "10 mg",
+      "formType": "Tableta",
+      "categoryId": "cat-5",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-601",
+      "name": "Midazolam",
+      "presentation": "15 mg / 3 ml",
+      "formType": "Solución inyectable (Ampolla)",
+      "categoryId": "cat-6",
+      "route": "Parenteral",
+      "patients": [
+        "Graves"
+      ],
+      "status": "BAJO",
+      "note": "18 ampollas en carro de paro y UCI"
+    },
+    {
+      "id": "med-602",
+      "name": "Diazepam",
+      "presentation": "10 mg / 2 ml",
+      "formType": "Solución inyectable (Ampolla)",
+      "categoryId": "cat-6",
+      "route": "Parenteral",
+      "patients": [
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Disponible para eclampsia / convulsiones"
+    },
+    {
+      "id": "med-603",
+      "name": "Lorazepam",
+      "presentation": "2 mg",
+      "formType": "Tableta",
+      "categoryId": "cat-6",
+      "route": "Oral",
+      "patients": [
+        "Cuidado"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Receta controlada"
+    },
+    {
+      "id": "med-701",
+      "name": "Morfina Clorhidrato",
+      "presentation": "10 mg / 1 ml",
+      "formType": "Solución inyectable (Ampolla)",
+      "categoryId": "cat-7",
+      "route": "Parenteral",
+      "patients": [
+        "Graves"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Estupefaciente - Libro de control al día"
+    },
+    {
+      "id": "med-702",
+      "name": "Paracetamol",
+      "presentation": "500 mg",
+      "formType": "Tableta",
+      "categoryId": "cat-7",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Stock amplio"
+    },
+    {
+      "id": "med-801",
+      "name": "Norepinefrina",
+      "presentation": "4 mg / 4 ml",
+      "formType": "Solución inyectable (Ampolla)",
+      "categoryId": "cat-8",
+      "route": "Parenteral",
+      "patients": [
+        "Graves"
+      ],
+      "status": "DISPONIBLE",
+      "note": "Reserva prioritaria Shock / UCI"
+    }
+  ]
+}
