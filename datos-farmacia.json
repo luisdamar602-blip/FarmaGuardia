@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "19 nov 2026, 19:27",
-  "updatedBy": "Turno Matutino",
+  "lastUpdated": "jue, 19 nov 2026, 19:45",
+  "updatedBy": "Dr LuisDamar",
   "categories": [
     {
       "id": "cat-1",
@@ -99,20 +99,6 @@
       ],
       "status": "DISPONIBLE",
       "note": "Prioridad Código Rojo Obstétrico y Trauma"
-    },
-    {
-      "id": "med-202",
-      "name": "Ácido Tranexámico",
-      "presentation": "500 mg",
-      "formType": "Tableta",
-      "categoryId": "cat-2",
-      "route": "Oral",
-      "patients": [
-        "Cuidado",
-        "Maternas"
-      ],
-      "status": "BAJO",
-      "note": "2 cajas disponibles"
     },
     {
       "id": "med-301",
