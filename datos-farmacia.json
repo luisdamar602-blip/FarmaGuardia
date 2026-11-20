@@ -45,33 +45,6 @@
   ],
   "medications": [
     {
-      "id": "med-502",
-      "name": "Metoclopramida",
-      "presentation": "10 mg",
-      "formType": "Tableta",
-      "categoryId": "cat-5",
-      "route": "Oral",
-      "patients": [
-        "Cuidado",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": ""
-    },
-    {
-      "id": "med-601",
-      "name": "Midazolam",
-      "presentation": "15 mg / 3 ml",
-      "formType": "Solución inyectable (Ampolla)",
-      "categoryId": "cat-6",
-      "route": "Parenteral",
-      "patients": [
-        "Graves"
-      ],
-      "status": "BAJO",
-      "note": "18 ampollas en carro de paro y UCI"
-    },
-    {
       "id": "med-602",
       "name": "Diazepam",
       "presentation": "10 mg / 2 ml",
