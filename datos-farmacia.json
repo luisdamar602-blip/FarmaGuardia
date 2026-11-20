@@ -45,21 +45,6 @@
   ],
   "medications": [
     {
-      "id": "med-501",
-      "name": "Metoclopramida",
-      "presentation": "10 mg / 2 ml",
-      "formType": "Solución inyectable (Ampolla)",
-      "categoryId": "cat-5",
-      "route": "Parenteral",
-      "patients": [
-        "Cuidado",
-        "Graves",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "90 ampollas"
-    },
-    {
       "id": "med-502",
       "name": "Metoclopramida",
       "presentation": "10 mg",
