@@ -43,19 +43,5 @@
       "color": "rose"
     }
   ],
-  "medications": [
-    {
-      "id": "med-801",
-      "name": "Norepinefrina",
-      "presentation": "4 mg / 4 ml",
-      "formType": "Solución inyectable (Ampolla)",
-      "categoryId": "cat-8",
-      "route": "Parenteral",
-      "patients": [
-        "Graves"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Reserva prioritaria Shock / UCI"
-    }
-  ]
+  "medications": []
 }
