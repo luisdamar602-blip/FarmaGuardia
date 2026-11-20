@@ -56,6 +56,19 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795187925830",
+      "name": "Cloxacillin",
+      "presentation": "500 mg",
+      "formType": "Cápsula",
+      "categoryId": "cat-1",
+      "route": "Oral",
+      "patients": [
+        "Cuidado"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
     }
   ]
 }
