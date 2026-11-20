@@ -193,6 +193,21 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795188272313",
+      "name": "Bicarbonato de Sodio",
+      "presentation": "4%",
+      "formType": "Ampula",
+      "categoryId": "cat-1795188038270",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
     }
   ]
 }
