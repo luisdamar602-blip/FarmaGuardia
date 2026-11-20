@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:18",
+  "lastUpdated": "vie, 20 nov 2026, 10:19",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -62,6 +62,19 @@
       "name": "Cloxacillin",
       "presentation": "500 mg",
       "formType": "Cápsula",
+      "categoryId": "cat-1",
+      "route": "Oral",
+      "patients": [
+        "Cuidado"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-1795187948225",
+      "name": "Clindamicina",
+      "presentation": "300 mg",
+      "formType": "Tableta",
       "categoryId": "cat-1",
       "route": "Oral",
       "patients": [
