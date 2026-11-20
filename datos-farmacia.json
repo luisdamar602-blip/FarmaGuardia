@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:20",
+  "lastUpdated": "vie, 20 nov 2026, 10:21",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -105,6 +105,19 @@
       ],
       "status": "BAJO",
       "note": "1 paciente"
+    },
+    {
+      "id": "med-1795188081995",
+      "name": "Dextrosa",
+      "presentation": "30%",
+      "formType": "Ampula",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
     }
   ]
 }
