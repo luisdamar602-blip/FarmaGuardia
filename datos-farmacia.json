@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "jue, 19 nov 2026, 20:43",
-  "updatedBy": "Dr LuisDamar",
+  "lastUpdated": "vie, 20 nov 2026, 08:34",
+  "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
       "id": "cat-1",
@@ -44,20 +44,6 @@
     }
   ],
   "medications": [
-    {
-      "id": "med-201",
-      "name": "Ácido Tranexámico",
-      "presentation": "500 mg / 5 ml",
-      "formType": "Solución inyectable (Ampolla)",
-      "categoryId": "cat-2",
-      "route": "Parenteral",
-      "patients": [
-        "Graves",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Prioridad Código Rojo Obstétrico y Trauma"
-    },
     {
       "id": "med-301",
       "name": "Hidróxido de Aluminio y Magnesio",
