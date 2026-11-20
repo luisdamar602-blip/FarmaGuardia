@@ -45,35 +45,6 @@
   ],
   "medications": [
     {
-      "id": "med-302",
-      "name": "Sucralfato",
-      "presentation": "1 g / 5 ml",
-      "formType": "Suspensión oral",
-      "categoryId": "cat-3",
-      "route": "Oral",
-      "patients": [
-        "Cuidado",
-        "Graves"
-      ],
-      "status": "AGOTADO",
-      "note": "Pendiente ingreso de almacén central"
-    },
-    {
-      "id": "med-401",
-      "name": "Omeprazol",
-      "presentation": "40 mg",
-      "formType": "Polvo liofilizado para solución inyectable",
-      "categoryId": "cat-4",
-      "route": "Parenteral",
-      "patients": [
-        "Cuidado",
-        "Graves",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "85 viales disponibles"
-    },
-    {
       "id": "med-402",
       "name": "Omeprazol",
       "presentation": "20 mg",
