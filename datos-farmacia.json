@@ -45,46 +45,6 @@
   ],
   "medications": [
     {
-      "id": "med-602",
-      "name": "Diazepam",
-      "presentation": "10 mg / 2 ml",
-      "formType": "Solución inyectable (Ampolla)",
-      "categoryId": "cat-6",
-      "route": "Parenteral",
-      "patients": [
-        "Graves",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Disponible para eclampsia / convulsiones"
-    },
-    {
-      "id": "med-603",
-      "name": "Lorazepam",
-      "presentation": "2 mg",
-      "formType": "Tableta",
-      "categoryId": "cat-6",
-      "route": "Oral",
-      "patients": [
-        "Cuidado"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Receta controlada"
-    },
-    {
-      "id": "med-701",
-      "name": "Morfina Clorhidrato",
-      "presentation": "10 mg / 1 ml",
-      "formType": "Solución inyectable (Ampolla)",
-      "categoryId": "cat-7",
-      "route": "Parenteral",
-      "patients": [
-        "Graves"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Estupefaciente - Libro de control al día"
-    },
-    {
       "id": "med-702",
       "name": "Paracetamol",
       "presentation": "500 mg",
