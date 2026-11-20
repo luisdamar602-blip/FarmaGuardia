@@ -46,6 +46,11 @@
       "id": "cat-1795188038270",
       "name": "Electrolitos",
       "color": "sky"
+    },
+    {
+      "id": "cat-1795188045958",
+      "name": "Soluciones",
+      "color": "emerald"
     }
   ],
   "medications": [
