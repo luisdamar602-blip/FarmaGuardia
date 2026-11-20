@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:29",
+  "lastUpdated": "vie, 20 nov 2026, 10:30",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -172,7 +172,7 @@
     {
       "id": "med-1795188212445",
       "name": "Ibuprofeno",
-      "presentation": "400",
+      "presentation": "400mg",
       "formType": "Tableta",
       "categoryId": "cat-7",
       "route": "Oral",
