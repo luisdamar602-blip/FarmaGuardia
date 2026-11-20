@@ -258,6 +258,21 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795188478064",
+      "name": "Dextrosa",
+      "presentation": "5%",
+      "formType": "Frasco",
+      "categoryId": "cat-1795188045958",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
     }
   ]
 }
