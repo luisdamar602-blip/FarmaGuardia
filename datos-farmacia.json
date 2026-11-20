@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:24",
+  "lastUpdated": "vie, 20 nov 2026, 10:25",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -208,6 +208,21 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795188304446",
+      "name": "Ácido tranexamico",
+      "presentation": "500mg",
+      "formType": "Ampula",
+      "categoryId": "cat-2",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "BAJO",
+      "note": "Dosis de ataque"
     }
   ]
 }
