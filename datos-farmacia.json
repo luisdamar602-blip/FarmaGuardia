@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:16",
+  "lastUpdated": "vie, 20 nov 2026, 10:18",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -43,5 +43,19 @@
       "color": "rose"
     }
   ],
-  "medications": []
+  "medications": [
+    {
+      "id": "med-1795187890877",
+      "name": "Amoxicilina",
+      "presentation": "500 mg",
+      "formType": "Cápsula",
+      "categoryId": "cat-1",
+      "route": "Oral",
+      "patients": [
+        "Cuidado"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    }
+  ]
 }
