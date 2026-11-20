@@ -82,6 +82,19 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795187977560",
+      "name": "Aztreonam",
+      "presentation": "1 g",
+      "formType": "Ampula",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Graves"
+      ],
+      "status": "BAJO",
+      "note": ""
     }
   ]
 }
