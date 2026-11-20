@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "jue, 19 nov 2026, 19:46",
-  "updatedBy": "Dr LuisDamar",
+  "lastUpdated": "jue, 19 nov 2026, 20:43",
+  "updatedBy": "Dr Luis",
   "categories": [
     {
       "id": "cat-1",
@@ -44,19 +44,6 @@
     }
   ],
   "medications": [
-    {
-      "id": "med-102",
-      "name": "Meropenem",
-      "presentation": "1 g",
-      "formType": "Polvo para solución inyectable",
-      "categoryId": "cat-1",
-      "route": "Parenteral",
-      "patients": [
-        "Graves"
-      ],
-      "status": "BAJO",
-      "note": "Solo 14 viales - Uso controlado UCI"
-    },
     {
       "id": "med-103",
       "name": "Amoxicilina / Ácido Clavulánico",
