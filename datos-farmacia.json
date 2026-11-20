@@ -144,7 +144,7 @@
       "name": "Diclofenaco de Sodio",
       "presentation": "75mg",
       "formType": "Ampula",
-      "categoryId": "cat-1",
+      "categoryId": "cat-7",
       "route": "Parenteral",
       "patients": [
         "Cuidado",
@@ -152,7 +152,7 @@
         "Maternas"
       ],
       "status": "BAJO",
-      "note": ""
+      "note": "Coordinar casos"
     },
     {
       "id": "med-1795188187932",
