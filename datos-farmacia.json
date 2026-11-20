@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:22",
+  "lastUpdated": "vie, 20 nov 2026, 10:23",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -147,6 +147,21 @@
         "Maternas"
       ],
       "status": "BAJO",
+      "note": ""
+    },
+    {
+      "id": "med-1795188187932",
+      "name": "Paracetamol",
+      "presentation": "500mg",
+      "formType": "Tableta",
+      "categoryId": "cat-7",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
       "note": ""
     }
   ]
