@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:26",
+  "lastUpdated": "vie, 20 nov 2026, 10:27",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -243,6 +243,21 @@
       ],
       "status": "BAJO",
       "note": "Coordinar casos"
+    },
+    {
+      "id": "med-1795188462069",
+      "name": "NaCl",
+      "presentation": "0.9%",
+      "formType": "Frasco",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
     }
   ]
 }
