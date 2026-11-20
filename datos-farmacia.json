@@ -45,20 +45,6 @@
   ],
   "medications": [
     {
-      "id": "med-702",
-      "name": "Paracetamol",
-      "presentation": "500 mg",
-      "formType": "Tableta",
-      "categoryId": "cat-7",
-      "route": "Oral",
-      "patients": [
-        "Cuidado",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Stock amplio"
-    },
-    {
       "id": "med-801",
       "name": "Norepinefrina",
       "presentation": "4 mg / 4 ml",
