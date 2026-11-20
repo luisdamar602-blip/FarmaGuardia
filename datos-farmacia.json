@@ -1,6 +1,6 @@
 {
   "lastUpdated": "jue, 19 nov 2026, 20:43",
-  "updatedBy": "Dr Luis",
+  "updatedBy": "Dr LuisDamar",
   "categories": [
     {
       "id": "cat-1",
@@ -44,20 +44,6 @@
     }
   ],
   "medications": [
-    {
-      "id": "med-103",
-      "name": "Amoxicilina / Ácido Clavulánico",
-      "presentation": "875 mg / 125 mg",
-      "formType": "Tableta recubierta",
-      "categoryId": "cat-1",
-      "route": "Oral",
-      "patients": [
-        "Cuidado",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Stock amplio"
-    },
     {
       "id": "med-201",
       "name": "Ácido Tranexámico",
