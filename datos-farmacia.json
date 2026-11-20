@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:19",
+  "lastUpdated": "vie, 20 nov 2026, 10:20",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -41,6 +41,11 @@
       "id": "cat-8",
       "name": "Vasopresores / Inotrópicos",
       "color": "rose"
+    },
+    {
+      "id": "cat-1795188038270",
+      "name": "Electrolitos",
+      "color": "sky"
     }
   ],
   "medications": [
