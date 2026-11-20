@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:21",
+  "lastUpdated": "vie, 20 nov 2026, 10:22",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -117,6 +117,21 @@
         "Cuidado"
       ],
       "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-1795188125512",
+      "name": "Ringer Lactato",
+      "presentation": "500 ml",
+      "formType": "Frasco",
+      "categoryId": "cat-1795188045958",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "BAJO",
       "note": ""
     }
   ]
