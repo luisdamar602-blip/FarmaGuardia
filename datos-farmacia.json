@@ -223,6 +223,21 @@
       ],
       "status": "BAJO",
       "note": "Dosis de ataque"
+    },
+    {
+      "id": "med-1795188349055",
+      "name": "Hidrocortisona",
+      "presentation": "100mg",
+      "formType": "Bulbo",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "BAJO",
+      "note": "Coordinar casos"
     }
   ]
 }
