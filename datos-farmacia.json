@@ -163,6 +163,21 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795188212445",
+      "name": "Ibuprofeno",
+      "presentation": "400",
+      "formType": "Tableta",
+      "categoryId": "cat-7",
+      "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
     }
   ]
 }
