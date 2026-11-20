@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 08:34",
+  "lastUpdated": "vie, 20 nov 2026, 08:35",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -44,20 +44,6 @@
     }
   ],
   "medications": [
-    {
-      "id": "med-301",
-      "name": "Hidróxido de Aluminio y Magnesio",
-      "presentation": "200 mg / 200 mg / 5 ml",
-      "formType": "Suspensión oral",
-      "categoryId": "cat-3",
-      "route": "Oral",
-      "patients": [
-        "Cuidado",
-        "Maternas"
-      ],
-      "status": "DISPONIBLE",
-      "note": "Frascos de 180 ml"
-    },
     {
       "id": "med-302",
       "name": "Sucralfato",
