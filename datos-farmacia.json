@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:23",
+  "lastUpdated": "vie, 20 nov 2026, 10:24",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -171,6 +171,21 @@
       "formType": "Tableta",
       "categoryId": "cat-7",
       "route": "Oral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-1795188241274",
+      "name": "Gluconato de Calcio",
+      "presentation": "10%",
+      "formType": "Ampula",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
       "patients": [
         "Cuidado",
         "Graves",
