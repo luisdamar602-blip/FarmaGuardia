@@ -77,12 +77,14 @@
     {
       "id": "med-1795187925830",
       "name": "Cloxacillin",
-      "presentation": "500 mg",
+      "presentation": "250 mg",
       "formType": "Cápsula",
       "categoryId": "cat-1",
       "route": "Oral",
       "patients": [
-        "Cuidado"
+        "Cuidado",
+        "Graves",
+        "Maternas"
       ],
       "status": "DISPONIBLE",
       "note": ""
