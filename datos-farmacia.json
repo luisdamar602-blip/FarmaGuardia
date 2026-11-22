@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "dom, 22 nov 2026, 09:10",
+  "lastUpdated": "dom, 22 nov 2026, 09:14",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -272,6 +272,36 @@
       "presentation": "5%",
       "formType": "Frasco",
       "categoryId": "cat-1795188045958",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-1795356803142",
+      "name": "Penicilina rapilenta",
+      "presentation": "1000000 U",
+      "formType": "Ampula",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-1795356858285",
+      "name": "Sulfadiazina Sódica",
+      "presentation": "10%",
+      "formType": "Ampula",
+      "categoryId": "cat-1",
       "route": "Parenteral",
       "patients": [
         "Cuidado",
