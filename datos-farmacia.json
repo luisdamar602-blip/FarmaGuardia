@@ -338,6 +338,20 @@
       ],
       "status": "BAJO",
       "note": "Profilaxis"
+    },
+    {
+      "id": "med-1795357007169",
+      "name": "Meronem",
+      "presentation": "500mg",
+      "formType": "Bulbo",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Graves",
+        "Maternas"
+      ],
+      "status": "BAJO",
+      "note": "1 caso"
     }
   ]
 }
