@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "dom, 22 nov 2026, 09:14",
+  "lastUpdated": "dom, 22 nov 2026, 09:15",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -300,6 +300,21 @@
       "id": "med-1795356858285",
       "name": "Sulfadiazina Sódica",
       "presentation": "10%",
+      "formType": "Ampula",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Cuidado",
+        "Graves",
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
+      "note": ""
+    },
+    {
+      "id": "med-1795356925886",
+      "name": "Clindamicina",
+      "presentation": "600 mg",
       "formType": "Ampula",
       "categoryId": "cat-1",
       "route": "Parenteral",
