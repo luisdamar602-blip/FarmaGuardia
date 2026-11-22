@@ -62,12 +62,14 @@
     {
       "id": "med-1795187890877",
       "name": "Amoxicilina",
-      "presentation": "500 mg",
+      "presentation": "250 mg",
       "formType": "Cápsula",
       "categoryId": "cat-1",
       "route": "Oral",
       "patients": [
-        "Cuidado"
+        "Cuidado",
+        "Graves",
+        "Maternas"
       ],
       "status": "DISPONIBLE",
       "note": ""
