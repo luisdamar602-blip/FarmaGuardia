@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "dom, 22 nov 2026, 09:15",
+  "lastUpdated": "dom, 22 nov 2026, 09:16",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -325,6 +325,19 @@
       ],
       "status": "DISPONIBLE",
       "note": ""
+    },
+    {
+      "id": "med-1795356962566",
+      "name": "Cefazolina",
+      "presentation": "1g",
+      "formType": "Bulbo",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Maternas"
+      ],
+      "status": "BAJO",
+      "note": "Profilaxis"
     }
   ]
 }
