@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "dom, 22 nov 2026, 09:16",
+  "lastUpdated": "dom, 22 nov 2026, 09:17",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -351,6 +351,19 @@
         "Maternas"
       ],
       "status": "BAJO",
+      "note": "1 caso"
+    },
+    {
+      "id": "med-1795357029868",
+      "name": "Ceftriaxona",
+      "presentation": "1g",
+      "formType": "Bulbo",
+      "categoryId": "cat-1",
+      "route": "Parenteral",
+      "patients": [
+        "Maternas"
+      ],
+      "status": "DISPONIBLE",
       "note": "1 caso"
     }
   ]
