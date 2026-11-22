@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "vie, 20 nov 2026, 10:30",
+  "lastUpdated": "dom, 22 nov 2026, 09:09",
   "updatedBy": "Dr. LuisDamar",
   "categories": [
     {
@@ -106,7 +106,8 @@
       "categoryId": "cat-1",
       "route": "Parenteral",
       "patients": [
-        "Graves"
+        "Graves",
+        "Maternas"
       ],
       "status": "BAJO",
       "note": "1 paciente"
